@@ -2,8 +2,8 @@ package com.example.demo.application.service;
 
 
 import com.example.demo.domain.model.Insurance;
-import com.example.demo.domain.ports.InsuranceRepositoryPort;
-import com.example.demo.domain.ports.InsuranceServicePort;
+import com.example.demo.application.ports.InsuranceRepositoryPort;
+import com.example.demo.application.ports.InsuranceServicePort;
 import lombok.RequiredArgsConstructor;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

@@ -1,4 +1,4 @@
-package com.example.demo.infrastructure.controller;
+package com.example.demo.web.controller;
 
 
 import com.example.demo.application.service.InsuranceServiceImpl;

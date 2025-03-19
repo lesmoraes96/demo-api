@@ -1,9 +1,8 @@
-package com.example.demo.service;
+package com.example.demo.application.service;
 
 import com.example.demo.application.service.InsuranceServiceImpl;
 import com.example.demo.domain.model.Insurance;
-import com.example.demo.domain.ports.InsuranceRepositoryPort;
-import com.example.demo.domain.ports.InsuranceServicePort;
+import com.example.demo.application.ports.InsuranceRepositoryPort;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.mockito.InjectMocks;

@@ -1,4 +1,4 @@
-package com.example.demo.domain.ports;
+package com.example.demo.application.ports;
 
 import com.example.demo.domain.model.Insurance;
 
